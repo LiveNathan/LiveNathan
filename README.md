@@ -1,5 +1,5 @@
 # Nathan Lively
-### Java + Spring Backend Developer • Founder of Tracebook & SubAligner • 789K podcast downloads • 1.6M YouTube views
+### Java + Spring Backend Developer • Founder of Tracebook & SubAligner
 
 ⤷ Backend developer with experience in Java, Spring, MATLAB, marketing and product development. Passionate about designing and developing innovative web apps and micro-services that reveal new exciting information and solve business challenges in the pro audio sector.
 
