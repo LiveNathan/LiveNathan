@@ -2,7 +2,7 @@
 
 **20+ years AV industry experience + 4 years software development = Custom software that actually works for your business**
 
-📍 Minneapolis, MN | 💰 $120/hour | 📧 nathan@sounddesignlive.com
+📍 Minneapolis, MN | 📧 nathan@sounddesignlive.com | 🔗 Available for custom projects
 
 ---
 
