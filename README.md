@@ -20,7 +20,7 @@
 
 ---
 
-## 📈 Recent Client Success: Allied Productions
+## 📈 Recent Client Success: A Productions
 
 **The Challenge:** Labor booking process took 2+ hours per event, entirely manual
 
@@ -39,14 +39,13 @@
 ## 🛠 Featured Solutions
 
 ### 📊 SubAligner - Sub Alignment Tool
-Real-time acoustic alignment for live sound engineers
-- [Live Demo](https://www.subaligner.com/) | Used by 500+ sound engineers worldwide
-- Solves the "trial and error" delay adjustment problem
+The fastest way for live sound engineers to perform system alignment with confidence.
+- [Live Demo](https://www.subaligner.com/) | Used by 220+ sound engineers worldwide
+- Download transfer function files and load them into your audio analyzer
 
 ### 🎛 Audio Signal Processing Apps  
 Custom DSP solutions for pro audio applications
 - Frequency domain convolution with sample-accurate switching
-- Real-time audio processing optimization
 
 ### 📝 B2B Demand Generation Tool
 AI-powered keyword research for marketing teams
@@ -65,23 +64,19 @@ AI-powered keyword research for marketing teams
 
 ## 🔧 Technical Stack
 
-**Backend:** Java 24, Spring Boot, PostgreSQL  
+**Backend:** Java 24, Spring Boot, EclipseStore
 **Frontend:** Vaadin, Thymeleaf, HTML/CSS  
 **Architecture:** TDD, DDD, Hexagonal Architecture  
 **Deployment:** AWS, Docker, CI/CD pipelines  
-**Specialty:** Audio DSP, Real-time processing, System integrations
+**Specialty:** Audio DSP, Loudspeaker measurements, System integrations
 
 ---
 
 ## 📞 Ready to Eliminate Your Workflow Headaches?
 
-**Free 30-minute consultation** to discuss your specific challenges
+[📅 Book Your Free 30-Minute Consultation](https://tidycal.com/nathanlively/30-minute-meeting)
 
-📧 **nathan@sounddesignlive.com**  
-🌐 **[sounddesignlive.com](https://sounddesignlive.com)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/nathanlively)**
-
-*Currently accepting projects starting August 2025*
+Let's discuss your specific workflow challenges and how custom software can solve them.
 
 ---
 
@@ -91,4 +86,4 @@ AI-powered keyword research for marketing teams
 
 ---
 
-*"The AV industry desperately needs better software. Let's build something amazing together."*
+"The AV industry desperately needs better software. Let's build something amazing together."
