@@ -20,19 +20,48 @@
 
 ---
 
-## 📈 Recent Client Success: A Productions
+## 📈 Case Study: Allied Productions Labor Management System
 
-**The Challenge:** Labor booking process took 2+ hours per event, entirely manual
+**Timeline:** 4 months | **Industry:** AV Production & Event Management
 
-**The Solution:** Custom labor management app integrating with existing Flex system
+### 🔧 The Challenge: "A Time-Consuming Process with a Lot of Manual Data Entry"
 
-**The Results:**
-- ⚡ **80% time reduction** - booking now takes 20 minutes instead of 2 hours
-- 🔄 **Seamless integration** with existing workflows  
-- 💰 **15+ hours saved per week** for their team
-- 🎯 **Zero training required** - intuitive interface designed for AV professionals
+Allied Productions had a functional but tedious labor booking workflow. Jesse Andler (Labor Manager) was managing everything effectively, but spending significant time on repetitive manual tasks:
 
-> "Coming soon amazing quote..." –Brilliant Manager
+**The Daily Inefficiencies:**
+- **24-hour lag time** - Lasso only imported new events from Flex once per day
+- **Incorrect import data** - System pulled trucking dates instead of actual crew call times
+- **Manual corrections required** - Jesse had to fix dates and times for each event
+- **Scattered information** - Contacts spread across Flex, Lasso, and Monday without synchronization
+- **Annual manual updates** - Contractor information updated once yearly via Monday.com form, then manually entered
+
+> "We use a lot of different apps for what we do and that's part of the problem and I wish it was all on one app I wish it could all just be in one environment but it's not" - Jesse A., Labor Manager
+
+### 💡 The Solution: Streamlined Workflow with Real-Time Integration
+
+Rather than asking Allied to change their proven processes, I built a system that eliminated the manual inefficiencies while keeping their existing workflow intact.
+
+**What I Built:**
+✅ **Real-time Flex API integration** - No more 24-hour delays  
+✅ **Automatic contact consolidation** - Programmatically moved all Lasso contacts to Flex  
+✅ **Correct time importing** - Load-in/load-out times instead of trucking dates  
+✅ **Stateless application** - No duplicate data management, just smart API calls  
+✅ **Intuitive crew calendar** - Visual availability tracking Jesse actually wanted to use
+
+### 🎯 The Results: Streamlined Daily Operations
+
+**Impact:**
+- ⚡ **Eliminated repetitive data entry** - automatic sync between systems
+- 🔄 **All labor information centralized in Flex** - PMs can now access crew details directly instead of contacting Jesse
+- 🎯 **Familiar interface** - built to work naturally with existing AV workflows
+- 💼 **Reduced daily friction** - Jesse can focus on crew coordination instead of data management
+
+**The Process Transformation:**
+
+**Old way:** Email → Monday form → Lasso (with wrong times) → Manual corrections → PMs contact Jesse for labor info  
+**New way:** Allied Crew app → Real-time Flex updates → All stakeholders see current data
+
+**Biggest win:** Project managers can now see labor assignments directly in Flex, eliminating the constant back-and-forth with Jesse for crew information.
 
 ---
 
