@@ -42,6 +42,7 @@ Allied Productions had a functional but tedious labor booking workflow. Jesse An
 Rather than asking Allied to change their proven processes, I built a system that eliminated the manual inefficiencies while keeping their existing workflow intact.
 
 **What I Built:**
+
 ✅ **Real-time Flex API integration** - No more 24-hour delays  
 ✅ **Automatic contact consolidation** - Programmatically moved all Lasso contacts to Flex  
 ✅ **Correct time importing** - Load-in/load-out times instead of trucking dates  
